@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certamen elegiacum nouem musarum, Appoline duce, contra Barbariem susceptum &amp; serenissimæ, potentissimæq[ue] principi, ac Dominæ, D. Elizabethæ, Angliæ, Franciæ, &amp; Hiberniæ Reginæ, &amp;c. Barbariæ victrici: Dominæ elementissimæ, D.D.D. Matthias Leius, Germanus.</title>
+            <author>Leius, Matthias.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A05292</idno><idno type="EEBO-CITATION">99854489</idno>
+  <idno type="VID">19913</idno>
+  <idno type="EEBO-PROQUEST">2240945321</idno>
+  <idno type="STC">STC 15437</idno>
+  <idno type="STC">ESTC S119282</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854489e"/>
+            <note>(EEBO-TCP ; phase 2, no. A05292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 443:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certamen elegiacum nouem musarum, Appoline duce, contra Barbariem susceptum &amp; serenissimæ, potentissimæq[ue] principi, ac Dominæ, D. Elizabethæ, Angliæ, Franciæ, &amp; Hiberniæ Reginæ, &amp;c. Barbariæ victrici: Dominæ elementissimæ, D.D.D. Matthias Leius, Germanus.</title>
+                  <author>Leius, Matthias.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Per Simonem Staffordum,</publisher>
+                  <pubPlace>Impressum Londini :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19913:1"/>
+            <pb facs="tcp:19913:1"/>
+            <p>Certamen Elegiacum NOVEM MV<g ref="char:EOLhyphen"/>sarum, Apolline du<g ref="char:EOLhyphen"/>ce, contra Barbariem susceptum: &amp; <hi>Serenissimae, Potentissimae{que} Principi, ac</hi> Dominae, D. Elizabethae, Angliae, Franciae, <hi>&amp; Hiberniae Reginae, &amp;c. Barbariae victrici:</hi> Dominae clementissimae, D. D. D.</p>
+            <p>
+               <hi>Matthias Leius, Germanus.</hi>
+            </p>
+            <p>
+               <hi>Impressum Londini per Simonem Staffordum.</hi> 1600.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19913:2"/>
+            <head>
+               <hi>AD</hi> D. Elizabetham An<g ref="char:EOLhyphen"/>gliae, Franciae, &amp; Hiberniae Serenissi<g ref="char:EOLhyphen"/>mam, <hi>Potētissimam{que} Reginam, &amp;c.</hi> Bar<g ref="char:EOLhyphen"/>bariae victricem, Dominam clementissi<g ref="char:EOLhyphen"/>mam: Authoris Epigramma.</head>
+            <l>
+               <seg rend="decorInit">Q</seg>Vae modo sceptra geris regni cum iure Britann<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Elisabetha: sacrae mixta virago deae:</l>
+            <l>Cuius ad occasum virtus se solis ab ortu</l>
+            <l>Inclyta gestorum per monumenta tulit:</l>
+            <l>Quae, quibus accessit, non ante recedet ab oris,</l>
+            <l>Vltima quam coeli finis &amp; orbis erit:</l>
+            <l>Cerne, quod ingenii clypeis certamen &amp; hastis</l>
+            <l>Hic sacra Pegaseinumina fontis habent.</l>
+            <l>Non ad Amazonias est formidabile peltas:</l>
+            <l>Tela{que} Lernaei lurida felle vadi:</l>
+            <l>Sed sit ad ingenuas, hominum sine caedibus, artes:</l>
+            <l>Et quae Pierii Mars habet arma chori.</l>
+            <l>Barbariae saeuis caput execrabile diris</l>
+            <l>Caeditur Aoniae nam{que} cohortis ope.</l>
+            <l>Cerneigitur, cuius tu dux potes esse, Gradiuum</l>
+            <l>O dea Mnemosynae matris alumna, vale.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:19913:2"/>
+            <head>
+               <hi>CERTAMEN ELEGIACVM</hi> nouem Musarum, Apolline duce, contra Barbariem susceptum.</head>
+            <l>
+               <seg rend="decorInit">B</seg>Ellum, quod rigida ferri sine cuspide gestum,</l>
+            <l>Quodque nec est mortis plaga sequuta, cano.</l>
+            <l>Nam cano Pieriam, Musarum praelia, pugnam:</l>
+            <l>Contra Barbariem non leue Martis opus.</l>
+            <l>Classicū Apollo sonat, certaminis author: &amp; omnes</l>
+            <l>A loue prognatas aptat in arma deas.</l>
+            <l>Iusta Cithaeriades nobis sunt bella, sorores,</l>
+            <l>Inquit i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmanem suscipienda feram.</l>
+            <l>Haec est, Caucasers quae rupibus edita, monstrat</l>
+            <l>Authores vitae tigres habere suae:</l>
+            <l>Haec est, quae, sacras quod habemus asylon ad aras,</l>
+            <l>Inuidet: Acnio tr<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> inimica choro:</l>
+            <l>Haec est virtutum studiis, &amp; amoribus hostis:</l>
+            <l>Artibus haec nostris perniciosalues:</l>
+            <l>Nomine Barbaries: A damantina cognomento:</l>
+            <l>Bellua inhumanis vixtoleranda Getis:</l>
+            <l>Templa profanabit Parnassia: ni, quod iniquo</l>
+            <l>Dirigit huc animo, nos remoremur iter.</l>
+            <l>At mihi sunt praesto, quae faxo sentiat arma</l>
+            <l>Haud leue in infandum robur habere caput.</l>
+            <l>Qualibet imbuta sunt scilicet arte sagittae:</l>
+            <l>Etvirtus, quae animos non sinit esse rudes.</l>
+            <l>His, inquam, humanas defendo fideliter artes:</l>
+            <l>His, quod habet per me mundus, acumen alo:</l>
+            <l>His hominem formo, qui est natus origine brutus:</l>
+            <l>His{que} deum facio, qui modo vixit homo.</l>
+            <l>Haud vnum mea nam{que} suo sub iure potestas,</l>
+            <l>Quae mihi diuersa est munere, numen habet.</l>
+            <pb facs="tcp:19913:3"/>
+            <l>Diuino veneranda fruens Sapientia cultu,</l>
+            <l>Stat sub tutelae tegmine salua meae.</l>
+            <l>Quae{que} est laetitiae comes indubitata, perennis</l>
+            <l>Musica agit regni sub ditione mei.</l>
+            <l>Primus ego inuenti sum carminis author: &amp; idem</l>
+            <l>Author ego primus sum medicina tuus.</l>
+            <l>Me, quae praeteritum, quae praesens, quae{que} futurum</l>
+            <l>Tempus habet, memori cognita vate patent.</l>
+            <l>Germano{que} meo metas praescribo Gradiuo:</l>
+            <l>Et Bellona meo se soror ore regit.</l>
+            <l>Gorgone quae laeuam, quae{que} ensis acumine dextram,</l>
+            <l>Inuicto{que} caput cassidis aere tegit:</l>
+            <l>Artes arte regens: &amp; Martem Marte gubernans:</l>
+            <l>Me sine inops Martis Pallas &amp; artis erit.</l>
+            <l>Regna meo illustro sub vtroque iacentia vultu:</l>
+            <l>Quosque gero, radios, qua patet orbis, ago.</l>
+            <l>Vt rego sidereum sublimi culmen Olympi:</l>
+            <l>Sic domo Lethaeos cum Stygis amne lacus.</l>
+            <l>Denique natura rerum nil prorsus in omni,</l>
+            <l>Quod non Phoebea vincitur arte, latet.</l>
+            <l>Ordine, ait, vestras, O Musae, laudibus artes</l>
+            <l>Sic celebrate, suum quae{que} secuta ducem.</l>
+            <l>Thespiades certate deae: ne cedite victae</l>
+            <l>Fonte Medusaeo, Pieridum{que} domo.</l>
+            <l>Pro vestra nunc atque mea contendite causa:</l>
+            <l>Tutantes nostri iusque decusque chori.</l>
+            <l>Viribus hanc, inquam, mecum communibus hostem</l>
+            <l>Pellite Barbaricam: Barbaricum{que} iugum.</l>
+            <l>His acuens animos, dedit apta sororibus arma:</l>
+            <l>Per quae victrices, qua furit hostis, ouant.</l>
+            <l>Prima nouenarum quia Clio aetate sororum,</l>
+            <l>Sic fuit historicis prima locuta sonis:</l>
+            <l>Nil inssis, O Phoebe, tuis parere negamus:</l>
+            <l>Nam tua castra sumus turba parata sequi.</l>
+            <l>Quae{que} voles fieri, per nos, puto, facta probabis:</l>
+            <l>Qualibet officii munus agente sui.</l>
+            <pb facs="tcp:19913:3"/>
+            <l>Pro votis quia quaeque tuis celebrabimus artes:</l>
+            <l>Facturae merito semper honore coli.</l>
+            <l>Ipsa meum retinebo decus: retinebo triumphum:</l>
+            <l>Prima lubens nostri te comitabo chori.</l>
+            <l>Nam mihi tela trucem sunt sufficientia in hostem:</l>
+            <l>Viribus historiae concidit illa meae.</l>
+            <l>Scilicet vt fuerit Romanis ardua virtus:</l>
+            <l>Integra pro patria cum tulit arma, cano:</l>
+            <l>Aucta quibus dominae mediis Respublica Romae</l>
+            <l>Creuerit: &amp; queis sit praecipitata malis:</l>
+            <l>Marte sub occulto quas fraudis ad organa gentes,</l>
+            <l>Quasque sub audaci fregit ad arma manu:</l>
+            <l>Iulius immensum queis Caesar vicerit orbem</l>
+            <l>Artibus: &amp; dites, quas habet orbis, opes:</l>
+            <l>Et quibus idem orbis libertus postea causis</l>
+            <l>Ruperit excusso vincla soluta iugo.</l>
+            <l>Nam quibus imperium, quod habes, retinere valebis,</l>
+            <l>Et quibus econtra perdere, pono modos.</l>
+            <l>Me duce mortales praeuisa incommoda vitant:</l>
+            <l>Commoda discentes vtiliora sequi.</l>
+            <l>Per me namque potest vel in vna protinus hora</l>
+            <l>Secula cum statibus cuncta videre suis,</l>
+            <l>Vita cui breuium vetat inspectare dierum</l>
+            <l>Vnius finem, principiumque rei.</l>
+            <l>Per me seclorum transacta reducitur aetas</l>
+            <l>Omnium: in historicis inspicienda libris.</l>
+            <l>Me sine magnorum periisset fama Quiritum:</l>
+            <l>Nullus &amp; Ausoniae iam foret vrbis honos.</l>
+            <l>Nec sua iam veteri foret orbi vita superstes:</l>
+            <l>Ni mea, qua superest, cura tulisset opem.</l>
+            <l>Inde loqui tragicis famosa tumultibus, orsa</l>
+            <l>Melpomene, tali verba tenore facit:</l>
+            <l>Quae quoduis vinco grauitate Tragoedia scriptum:</l>
+            <l>Prima cothurnati dicor origo metri.</l>
+            <l>Ardua sunt nobis rerum argumenta: patent{que}</l>
+            <l>Non nisi terrenis nostra theatra diis.</l>
+            <pb facs="tcp:19913:4"/>
+            <l>Nam non sordidulos, seruilia pectora, Dauos,</l>
+            <l>Sed mundi regnis qui dominantur, habent.</l>
+            <l>Nec rudia obscuris sermonum prompta pharetris,</l>
+            <l>Sed quae digna meo sunt patre, verba tonant.</l>
+            <l>Quisquis enim nostri oblectatur voce theatri:</l>
+            <l>Est potis ore loqui conueniente Ioui.</l>
+            <l>Quippe suam erudiens per me moderamine linguam</l>
+            <l>Temperat: in mentem ne sit iniqua suam.</l>
+            <l>Et sua delectum bene per praecepta loquendi</l>
+            <l>Nemo sciet: nostrae nî sciat artis ope.</l>
+            <l>In cantu quantum philomelae bubo canorae</l>
+            <l>Concedit: tantum tu mihi cede soror.</l>
+            <l>Absque mea veluti tua nil durabilis ars est:</l>
+            <l>Absque mea propriae sic nihil artis habet.</l>
+            <l>Vt, quae rupe caret, durae vel robore quercus,</l>
+            <l>Calcis egens, stabilis non solet esse domus:</l>
+            <l>Sic tua, ni tragicis sit combinata columnis,</l>
+            <l>Historia est paucos firma futura dies.</l>
+            <l>Inspice quam variis aulaea stupenda figuris</l>
+            <l>Artifice ingenii pando labore mei:</l>
+            <l>Principibusque meis suspendo, meisque dynastis:</l>
+            <l>Et quicun{que} rati munera regis obit:</l>
+            <l>Quorum diuersos si videris arte labores:</l>
+            <l>Non simplex tragicae videris artis opus.</l>
+            <l>Quem premit ancipiti sors sub pede mobilis, orbem</l>
+            <l>Qua, quotiesque rotet, te mea scena docet.</l>
+            <l>Quippe iocando meis ludens fortuna cothurnis,</l>
+            <l>Caeca per ambiguas it{que} redit{que} vias.</l>
+            <l>Res illa humanas sursum rapit atque deorsum:</l>
+            <l>Et trahit instabilis per leue sortis iter.</l>
+            <l>Iam volat aërus tranando per aethera pennis:</l>
+            <l>Et iam remigio corruit orba suo.</l>
+            <l>Iam{que} velut vultu ridet laetata sereno:</l>
+            <l>Sic causam, lachrymas cur modo fundat, habet.</l>
+            <l>Qui iam Croesus erat, diuino diues honore:</l>
+            <l>Mox eget humana Codrus &amp; Irus ope.</l>
+            <pb facs="tcp:19913:4"/>
+            <l>Cuius ad imperii nutum modo terra tremebat:</l>
+            <l>Cernitur insueti vincula ferre iugi.</l>
+            <l>Qui multos lata populos ditione premebat:</l>
+            <l>In turpi expirat turpe relictus humo.</l>
+            <l>Tam se saepe meis mutat persona theatris:</l>
+            <l>Quam se, Carpathiis qui deus errat aquis.</l>
+            <l>Prima licet lachrymis scateat, tamen vltima longe</l>
+            <l>Flebilior, ter plus scena doloris habet.</l>
+            <l>Cuius it ergo leues fortunae puppis ad auras;</l>
+            <l>Caute, naufragium ne patiatur, eat.</l>
+            <l>His quo{que} Barbaries monitis si mota fuisset:</l>
+            <l>Tam misere fatis non modo functa foret.</l>
+            <l>Comica demisso sequitur sermone Thalia:</l>
+            <l>Talia pro primi sede locuta loci:</l>
+            <l>Si verum dixisse ferar sine fraude, sorores:</l>
+            <l>Liuor in alterius, non mea dicta furat.</l>
+            <l>Hac, reor, in causa vel nunc vos nolle negare,</l>
+            <l>Quam mihi sueuistis semper habere fidem.</l>
+            <l>Nam mea fallaces aperit sollertia mentes:</l>
+            <l>Exhortans rebus quemque cauere suis.</l>
+            <l>Fallitur, &amp; fallit, dubios operata per actus,</l>
+            <l>Quae fit ad alternos comica scena dolos.</l>
+            <l>Retia lenorum docet: &amp; meretritia: nec non</l>
+            <l>Vafriciem serui: duriciem{que} patris.</l>
+            <l>Omnibus effusos adstantibus ore cachinnos</l>
+            <l>Elicit, humanos mima professa iocos.</l>
+            <l>Aduersis sperare docens meliora fugatis,</l>
+            <l>Ostendit miseris spem superesse malis.</l>
+            <l>Nam post afflictos praestans solamina casus,</l>
+            <l>Mutat cum laeto tristia quae{que} statu.</l>
+            <l>Denique principiis quae sunt lachrymantia primis,</l>
+            <l>Dat sua plaudenti pulpita fine frui.</l>
+            <l>Tale docens, leuibus, quibus induor, explico soccis:</l>
+            <l>Tali, inquam, officium constat in arte meum.</l>
+            <l>Hoc ego Barbariem prosternens ense trucido:</l>
+            <l>Clara{que} cum spoliis figo trophaea suis.</l>
+            <pb facs="tcp:19913:5"/>
+            <l>Terpsichore hymnisona testudinis arte secuta:</l>
+            <l>Sic cecinit laudes musica Musa suas:</l>
+            <l>Quae mihi debetur, sortis non vltima pars est:</l>
+            <l>Prima vocor nostri iure columna chori.</l>
+            <l>Non male Threiciis quae pango congrua neruis,</l>
+            <l>Carmina idem de me testificata probant.</l>
+            <l>Mordaces, inquam, curarum extermino vermes:</l>
+            <l>Nec modulamentis cor sino triste meis.</l>
+            <l>Quippe decem imparibus constant psalteria chordis</l>
+            <l>Sollerte i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>genii consona Marte mei.</l>
+            <l>Ad mea tot lepidas exerceo plectra puellas:</l>
+            <l>Quot iuuat imbutos arte rotare pedes.</l>
+            <l>Laetus enim ad citharam, nostro cum pollice tactam,</l>
+            <l>Saltat Hamadriadum, Naiadum{que} chorus.</l>
+            <l>Cum maiore suis colitur feruore cateruis,</l>
+            <l>Quae Venus ad nostras flagrat amore fides.</l>
+            <l>Pocla coronabunt laetis conuiuia mensis:</l>
+            <l>Quando meum feriens sollicitabis ebur,</l>
+            <l>Tam mea coelestes demulcent barbita mentes:</l>
+            <l>Quam reuocant brutas a feritate feras.</l>
+            <l>Ignibus in mediis algore subinde gelascit</l>
+            <l>Trinacris ad nostram cum stupet Aetna chelin.</l>
+            <l>Immo suis, velut vmbra, locis arbusta relictis,</l>
+            <l>Pectine transiliunt exhilarata meo.</l>
+            <l>Denique (nunc vno complectar vt omnia verbo)</l>
+            <l>Omnia flecto meae mota canore lyrae.</l>
+            <l>Si velit Arcadicus mihi Pan certare canendo;</l>
+            <l>Palmam iudicio det mihi Tmole tuo:</l>
+            <l>Et si quis tam stultus erit, cui iniusta vocetur</l>
+            <l>Vox tua, quae falsis est inimica dolis:</l>
+            <l>Is, Phrygii de more Midae temerarius aures</l>
+            <l>Oblong as asini me tribuente feret.</l>
+            <l>Quare vocali praeco Citharistria nablo:</l>
+            <l>Delectans fidibus, carminibusque chorum:</l>
+            <l>Quorum Barbaries cantu indurata rigescit:</l>
+            <l>Rursus &amp; in saxum, quod fuit ante, redit.</l>
+            <pb facs="tcp:19913:5"/>
+            <l>Quae calamos inflare leues docet at{que} cicutas,</l>
+            <l>Euterpe ad sociam sic ait orsa suam:</l>
+            <l>Redde, soror, nostro nobis pro munere grates:</l>
+            <l>O nimis in laudes ingeniosa tuas.</l>
+            <l>Nam sonitus clangore carens tua Musica nostri,</l>
+            <l>Magna concentus parte profecto caret.</l>
+            <l>Quae sunt cun{que} sonis apta instrumenta canoris:</l>
+            <l>Harmonico genii fabrico Marte mei.</l>
+            <l>Fistula, quae teres est: fragilis{que} fit arbore buxi:</l>
+            <l>Approbat inuentum testis aperta meum.</l>
+            <l>Cymbala, quae summum collaudant iussa Tonantem:</l>
+            <l>Eximium nostrae sunt quo{que} mentis opus:</l>
+            <l>Organa, quae sacras resonant inflata per aedes:</l>
+            <l>Agnoscunt artes sponte professa meas.</l>
+            <l>Terribilem{que} ciens cantu caua buccina Martem,</l>
+            <l>Me sequitur, dominam, fida ministra, suam.</l>
+            <l>Laetus obit miles nostrae clamore siryngae,</l>
+            <l>Et cataphractus obit praelia laetus eques.</l>
+            <l>Quin lituo stimulante meo volat ocyor Euro,</l>
+            <l>Quando pericla necis nulla moratur equus.</l>
+            <l>Si qua cruentato mucrone infligitur hosti</l>
+            <l>Plaga, fit ad nostram cassa dolore tubam.</l>
+            <l>Cum sonat inflato Berecynthia tibia cornu:</l>
+            <l>Quae labor est noster, tibia nostra sonat.</l>
+            <l>Cum{que} horrenda vocat saeuam taratantara pugnam:</l>
+            <l>Excitus officio Mars rapit arma meo.</l>
+            <l>Respicis inflatis huc vtricularie buccis:</l>
+            <l>Qui{que} obducta bouis tympana pelle feris.</l>
+            <l>Dura{que} flammiuomas quae eructat machina sphaeras:</l>
+            <l>Nescio quid nostra, cum boat, arte boat.</l>
+            <l>Et procul auditos agitata per aëra bombos</l>
+            <l>Tu campana meae reddis alumna manus.</l>
+            <l>Quae{que} coorta feri sunt turbine flamina venti,</l>
+            <l>Conueniens nobis murmur habere putes.</l>
+            <l>Deni{que} praemissis crepitura tonitrua flammis</l>
+            <l>Nil a natura sunt aliena mea.</l>
+            <pb facs="tcp:19913:6"/>
+            <l>Queis, puto, Barbaries nihil aduersata resistet:</l>
+            <l>Nam fera sub tonitru fulminis ira latet.</l>
+            <l>Has Erato quinas numerosa sequuta sorores,</l>
+            <l>Arguto tales protulit ore sonos:</l>
+            <l>Sum dea, que cunctis sua do discrimina rebus:</l>
+            <l>Et quae principium pono quibus{que} suum.</l>
+            <l>Euoluo triplicem dubiis erroribus orbem:</l>
+            <l>In{que} suas partes, &amp; sua membra seco.</l>
+            <l>Digero per certas elementa quaterna figuras:</l>
+            <l>Nec sino, quod fuerant, amplius esse chaos.</l>
+            <l>Nam terras coelis, &amp; aquas discrimino terris:</l>
+            <l>A{que} leui spissos aëre findo polos.</l>
+            <l>Limitibus{que} suae spaciisque coërcita metae</l>
+            <l>Singula per certos quae{que} guberno modos.</l>
+            <l>Participes facio terras grauitatis &amp; vndas:</l>
+            <l>Aëra cum flammis ad leuiora voco.</l>
+            <l>Aequora litoribus, vaga flumina comprimo ripis:</l>
+            <l>Nec labor emissos est inhibere Notos.</l>
+            <l>Dirigo signiferae Phoebo sua climata Zonae:</l>
+            <l>Quae{que} soror Phoebi per loca carpit iter.</l>
+            <l>Semper vt aequales spaciis aequalibus horas,</l>
+            <l>Sic &amp; inaequales semper habebo dies.</l>
+            <l>Recturus{que} suis totum cum mensibus annum,</l>
+            <l>Donec eunt menses: donec &amp; annus: ero.</l>
+            <l>Efficio vt verni sint verno in cespite flores:</l>
+            <l>Aestati{que} suae non sit iniqua seges,</l>
+            <l>Vina tibi autumnus me maturante propinat:</l>
+            <l>Et per me stirili frigore torpet hyems.</l>
+            <l>Qui mihi se debet, secum regit omnia mundus</l>
+            <l>Per numeros: numeris stat{que} cadit{que} meis.</l>
+            <l>Viribus illorum spaciosi machina coeli</l>
+            <l>Cum gemino gemini subiacet axe poli.</l>
+            <l>Quodlibet his constat quantum sit corpore corpus:</l>
+            <l>Quanta sit &amp; cuius quaeque capedo rei.</l>
+            <l>Ipse suas horum docet arte geometer artes:</l>
+            <l>Fixaque cum stellis qui docet astra, docet.</l>
+            <pb facs="tcp:19913:6"/>
+            <l>Qua sine cunctarum pereunt commercia rerum:</l>
+            <l>Qua sine vel nostri nemo scit esse nouem.</l>
+            <l>Ingenii, numeris, animi{que} potentia, nostris,</l>
+            <l>Et vis arcani noscitur alta Dei.</l>
+            <l>Et mihi quis tantam, nisi demens, certet ob artem.</l>
+            <l>Nemo: fruor primi digna decore loci.</l>
+            <l>Denique Barbaries per quot confossa sit a me,</l>
+            <l>Vix possum numeris tela referre meis.</l>
+            <l>Postea diuinae praeses veneranda poësi,</l>
+            <l>Calliope, &amp; nostri Musa laboris, ait:</l>
+            <l>Non cuius{que} rei de cognitione triumphas:</l>
+            <l>Quaeso, soror, linguae contrahe vela tuae.</l>
+            <l>Nam mihi, iudicibus vobis, velut auguror, aequis,</l>
+            <l>Ob quem certamus, cedere debet honos.</l>
+            <l>Vatidicam{que} tuis, omnes, cane versibus, artem</l>
+            <l>Prima tuam, dicant, Calliopea, ducem.</l>
+            <l>Laurus vt, aeterni decus &amp; gestamen honoris,</l>
+            <l>Tempora perpetua per mea fronde viret:</l>
+            <l>Sic mea perpetuis viget aeternata triumphis,</l>
+            <l>Munus &amp; aeternae gloria laudis habet.</l>
+            <l>Ars tua, Phoebe, mea est: nobis{que} perenne duobus,</l>
+            <l>Quod geris officium, frater, &amp; ipsa gero.</l>
+            <l>Per me carminibus celebrantur cuncta poëtis:</l>
+            <l>Et sacra me vatum turba canente canit.</l>
+            <l>Nota sapit nostros haud vna scientia versus:</l>
+            <l>Disciplina meis nec patet vna metris.</l>
+            <l>Artes carminibus vestras constare, sorores,</l>
+            <l>Quis neget? &amp; nostri muneris arte frui?</l>
+            <l>Carmen in historicis non exstat inutile rebus:</l>
+            <l>Quae{que} grauis debet metra cothurnus habet.</l>
+            <l>Verba mouens populo plaudenti ad subdola risus,</l>
+            <l>Arte mouet nostri comica scena metri.</l>
+            <l>Et mea Apollineis concordant carmina neruis.</l>
+            <l>Terribilisque suum buccina carmen habet.</l>
+            <l>Tu{que} tuos Erato numeros non futile pactos</l>
+            <l>Scis, puto, cum numeris foedus inisse meis.</l>
+            <pb facs="tcp:19913:7"/>
+            <l>De{que} suis stellis: coeleste volumen &amp; astris</l>
+            <l>Carmine conscriptum primus Aratus habet.</l>
+            <l>Rhethorici{que} meo sunt carmine multa leporis</l>
+            <l>Cognita. carminibus fama perennis erit.</l>
+            <l>Amphitrioniadae sine carmine claua iaceret:</l>
+            <l>Nec foret a domitis nobilitata feris.</l>
+            <l>Carmine adhuc viuit, cunctum victurus in aeuum,</l>
+            <l>Aurea Phryxaeae vellera nactus ouis.</l>
+            <l>Maeonidaeque graui nemo sine carmine nosset</l>
+            <l>Hectora Priamiden, Dulichium{que} ducem.</l>
+            <l>Nec pius Andino sine vate superstes haberet</l>
+            <l>Vllum Anchisiades nunc in honore decus.</l>
+            <l>Ad Styga qui manes, &amp; qui damnantur ad Orcum:</l>
+            <l>Materiem nostri carminis esse iuuat.</l>
+            <l>Quando giganteum memoratur carmine bellum:</l>
+            <l>Iuppiter inuenti laetus es arte mei.</l>
+            <l>Carmina noctiuagae praebent sua lumina lunae:</l>
+            <l>Obscurant{que} tuas carmina, Phoebe, faces.</l>
+            <l>Carmina multa nouas mirantur corpora formas.</l>
+            <l>Denique Barbaries carmine victa iacet.</l>
+            <l>Coelesti Vranie promens suspiria corde,</l>
+            <l>Suspicit aethereas quo docet ore plagas.</l>
+            <l>Et tandem reliquis ita farier orsa Camoenis,</l>
+            <l>Vt decet accensam pacis amore, refert:</l>
+            <l>Haud postrema chori reputata morabor haberi:</l>
+            <l>Dummodo postremus sit sine lite locus.</l>
+            <l>Non mihi cura sedet ventosae conscia laudis:</l>
+            <l>Nec comitata suo fama fauore placet.</l>
+            <l>His inhiate, quibus titulorum gloria cordi:</l>
+            <l>Et quibus ambitio, causa tumoris, inest.</l>
+            <l>At mihisat fuerit linguae dare signa modestae:</l>
+            <l>Obtenta{que} animi posse quiete frui.</l>
+            <l>Cedo lubens vobis, rixas exosa, sorores:</l>
+            <l>Praemia re quamuis iudice prima feram.</l>
+            <l>Sedula namque plagas superae regionis, &amp; omnes</l>
+            <l>Certa obseruatas arte pererro vias.</l>
+            <pb facs="tcp:19913:7"/>
+            <l>Quas humeris Atlas, conuersus ad aethera, stellas</l>
+            <l>Ingenii subeo robore nixa mei.</l>
+            <l>Immo quod immanes minime potuere gigantes,</l>
+            <l>Parte mei coelum nobiliore domo.</l>
+            <l>Stellarum occasus causas perscrutor &amp; ortus:</l>
+            <l>Quae{que} manent fixis aetheris astra locis.</l>
+            <l>Sub quo quae{que} suis sint cum regionibus vrbes</l>
+            <l>Climate, si nescis, me referente scies.</l>
+            <l>Nec dubie tempus per me tibi constat vtrum{que}</l>
+            <l>Quo sit venturum solstitiale die.</l>
+            <l>Quae vagus ipse suo Phoebus facit annua cursu,</l>
+            <l>Cur eadem Phoebe menstrua signa, scio:</l>
+            <l>Et qua luna premens radios Hyperionis hora,</l>
+            <l>Parte sui partem praepediente, tegit.</l>
+            <l>Qui{que} sacer Veneri est, noctem cur Hesperus atro</l>
+            <l>Afferat: &amp; nitido Lucifer ore diem:</l>
+            <l>Insuper excubiis cur in statione relictis</l>
+            <l>Ille nec ante cadens, quam sit hic ortus, obit.</l>
+            <l>Notum a me, quoties fraterna luna quadriga,</l>
+            <l>Et quoties Phoebo sit minor orbis, habent.</l>
+            <l>Triste{que} fatalis quando quid origo cometae</l>
+            <l>Portendit: sciti discitur arte mei.</l>
+            <l>Sic scio Chironem, sic qua Delphina requiram,</l>
+            <l>Et boue cum Pharia, Tyndaridisque, loco.</l>
+            <l>Felices animae, quas hanc profiterier artem,</l>
+            <l>Et secreta poli tecta subire, iuuat.</l>
+            <l>Quae nunc mente colunt, visu quando{que} notabunt</l>
+            <l>Sidera sub pedibus cum propiore suis.</l>
+            <l>Deni{que}, cui summi commissa potentia coeli,</l>
+            <l>Etius cum magnis creditur esse diis:</l>
+            <l>Si mihi Barbaries velit insultare: sub Aetnam</l>
+            <l>Vt ruit Enceladus, praecipitata ruet.</l>
+            <l>Ordine Pieriae postrema Polymnia turbae:</l>
+            <l>Prima sed eloquii Musa lepore sui:</l>
+            <l>Hanc, ait, in causam satis oris habebo, sorores:</l>
+            <l>Vt doceam, quod vos quaeritis, esse meum.</l>
+            <pb facs="tcp:19913:8"/>
+            <l>Quae mihi largiloquae seruit facundia linguae:</l>
+            <l>In quo, monstrabit, sim statuenda loco.</l>
+            <l>Vt vox nulla meo fuit hactenus orba petitu:</l>
+            <l>Sic erit hic voti nulla caduca mei.</l>
+            <l>Aucupor ad nutum, quod habetur vbique, loquendo:</l>
+            <l>Inucto{que} oris fulmine cuncta domo.</l>
+            <l>Diruo, &amp; aedifico: superaddo quadrata rotundis:</l>
+            <l>Et nihil in soliti more relinquo status.</l>
+            <l>Queis color albus inest, dempto candore, nigredo,</l>
+            <l>Et queis Memnonius, candor vt insit, ago.</l>
+            <l>Omnia quippe meis mutantur in omnia verbis:</l>
+            <l>Omnis &amp; eloquio fit bona causa meo.</l>
+            <l>Victa mihi cedunt mortalia pectora: palmam</l>
+            <l>Infera cum superis fert mihi turba diis.</l>
+            <l>Horum animi partes per me flectuntur in omnes:</l>
+            <l>Hinc quoque Flexanimae nomen adepta gero.</l>
+            <l>Stat concepta meis homini sententia dictis:</l>
+            <l>Semper ad arbitrii velle ferenda mei.</l>
+            <l>Nec Ioue quid maius, nec Dite potentius extat:</l>
+            <l>Et paret monitis cum Ioue Pluto meis.</l>
+            <l>Cum libet, insanis instigo furoribus orbem:</l>
+            <l>Et rursum furiis, cum libet, orbo suis.</l>
+            <l>Piaelia discordes veluti Mauortia damnant:</l>
+            <l>Sic me concordes arma iubente fremunt.</l>
+            <l>Quae{que} ruinam vrbes perituro in ciue minantur:</l>
+            <l>Quaeque suo in populo regna perire vides:</l>
+            <l>Verborum appositis sustentans erigo fulcris:</l>
+            <l>In{que} suum reuoco, quem tenuere, statum.</l>
+            <l>Non mihilimitibus, positisque coërcita septis</l>
+            <l>Meta, sed immensae curritur ampla viae.</l>
+            <l>Demessura omnes quia falx se extendit in herbas,</l>
+            <l>Et quasuis sulcat nostra phaselus aquas.</l>
+            <l>Panditur officio quia quaeque scientia nostro:</l>
+            <l>Ars{que} adaperta mea quaelibet arte patet.</l>
+            <l>Nam quaecunque aliquam fert nomine cognita famam,</l>
+            <l>Res ad materiam spectat agenda meam.</l>
+            <pb facs="tcp:19913:8"/>
+            <l>Tot quoque monstrosa persuadeo voce Chimeras:</l>
+            <l>Alta quot aërias Hybla frequentat apes.</l>
+            <l>Nam credenda, fidem quae non meruere, relinquo:</l>
+            <l>Quaeque fuere, negans vera fuisse, probo.</l>
+            <l>Me faciente nouis surgunt noua corpora formis:</l>
+            <l>Nec rebus facies, quae solet esse, manet.</l>
+            <l>Terra capit stellas: frutices, &amp; gramina coelum:</l>
+            <l>Humor habet flammas: flammeus ardor aquas.</l>
+            <l>Immotos{que} polos ambobus in axibus ambos,</l>
+            <l>Et terram gyri more, putabis, agi.</l>
+            <l>Vota ferens animi rata denique viribus oris,</l>
+            <l>Sum desiderii compos vbique mei.</l>
+            <l>His si rite meus praeceptis vsus alumnus,</l>
+            <l>Me duce Rhetorice quando perorat, aget:</l>
+            <l>Vt nunc est nostro, sic illius ore peremptum</l>
+            <l>Barbaricae vitium rusticitatis erit.</l>
+            <l>Obstupefacta silet reliquarum turba sororum:</l>
+            <l>Clausit vt haec verbis ora diserta suis.</l>
+            <l>Quique hortatus erat, nunc rursus Apollo coërcet</l>
+            <l>Bella: sub arbitrii voce dirempta sui:</l>
+            <l>Omnibus est eadem vobis ad praelia virtus,</l>
+            <l>O, ait, heroae, mascula corda, deae.</l>
+            <l>Scilicet (hoc animo velut exardente petiui)</l>
+            <l>Pectore quaeque viri belligerata fuit.</l>
+            <l>Caesa iacet vestris iam Barbara viribus hostis:</l>
+            <l>Et sua fata meo sub pede passa iacet.</l>
+            <l>Gloria iam nostri, nomen{que}, Heliconis &amp; artes,</l>
+            <l>Qua{que} cadit Titan, qua{que} resurgit, ouant.</l>
+            <l>Nunc Martis suspendite opus: nunc ponite litem:</l>
+            <l>Nunc pax, atque comes pacis, alatur amor.</l>
+            <l>Hos vt Apollo sonos, belli pacisque suasor,</l>
+            <l>Protulit: in litem nulla relapsa fuit:</l>
+            <l>Ast iniere nouum renouati foedus amoris:</l>
+            <l>Mutua pacatis fixa per oscla genis.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
